@@ -1,0 +1,20 @@
+//Suspendido
+//client.on('message', async (msg) => {
+    //if(msg.body == 'Gei') {
+      //  var cia = await msg.getChat();
+        //var ucxd = await msg.getContact();
+        //var uc3 = ucxd.id.user
+        //await client.sendMessage(ucxd.id.user + "@c.us", "*ESCRIBA EL NOMBRE DE LAS PERSONAS GEIS:*");
+        //msg.reply("Mira Tu Interno *UGU*")  
+    
+        //client.on('message', async (msg) => {
+          //     if (msg.body && msg) {
+               //msg.reply("Ok✅");
+            // await cia.sendMessage("*GEIS*\n- " + msg.body);
+   
+            }
+
+
+        })
+    }
+    });   

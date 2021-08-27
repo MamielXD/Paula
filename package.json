@@ -1,0 +1,30 @@
+{
+  "name": "paula",
+  "version": "1.0.0",
+  "description": "prealfa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MamielXD/Paula.git"
+  },
+  "keywords": [
+    "bot",
+    "paula",
+    "limon"
+  ],
+  "author": "Daniel Felipe Vargas Espitia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MamielXD/Paula/issues"
+  },
+  "homepage": "https://github.com/MamielXD/Paula#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mime": "^2.5.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.14.0"
+  }
+}
