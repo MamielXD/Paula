@@ -16,14 +16,9 @@ if(fs.existsSync(SESSION_FILE_PATH)) {
 }
 
 
-
 const client = new Client({
-    session: sessionData,
-    puppeteer: {
-        executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe',
-    }
-})
-
+    session: sessionData
+});
 client.initialize();
 
 client.on('qr', qr => {
